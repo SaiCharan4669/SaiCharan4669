@@ -1,14 +1,4 @@
 
-# Laptop Price Prediction for SmartTech Co.
-
-
-SmartTech Co. has partnered with our data science team to develop a robust machine learning model that predicts laptop prices accurately. As the market for laptops continues to expand with a myriad of brands and specifications, having a precise pricing model becomes crucial for both consumers and manufacturers.
-
-
-
-## Acknowledgements
-Special thanks to SmartTech Co. for the opportunity to collaborate on this project.
-Gratitude to open-source projects and libraries that supported this project’s development.
 ## Usage
 Usage
 Data Preparation: Preprocess the data by running data_preprocessing.py to handle missing values, encode variables, and prepare the dataset.
