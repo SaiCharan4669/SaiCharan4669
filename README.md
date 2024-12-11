@@ -1,9 +1,4 @@
 
-## Usage
-Usage
-Data Preparation: Preprocess the data by running data_preprocessing.py to handle missing values, encode variables, and prepare the dataset.
-Model Training: Run model_training.py to train and evaluate models on the prepared dataset.
-Real-time Prediction: Use predict.py to predict prices for new laptops. Simply provide the laptop's specifications as input to receive a price estimate.
 ## Features
 Features
 Comprehensive Data Analysis and Visualization: Uncover trends and relationships in laptop specifications and pricing.
@@ -38,13 +33,3 @@ Model Interpretability: Highlight the features that drive pricing decisions, ens
 
 ### 6. Real-time Prediction System
    - Implement a prediction system to handle real-time input, allowing predictions for new laptops as they are released.
-
-### 7. Model Interpretability and Insights
-   - Generate insights into which features are most influential in pricing decisions.
-   - Ensure the model’s predictions are transparent, giving SmartTech Co. confidence in the pricing decisions.
-
-### 8. Client Presentation
-   - Summarize and present the findings, model performance, and insights to SmartTech Co. stakeholders.
-   - Address questions, gather feedback, and explore any further enhancements.
-## Contact
-For any questions, suggestions, or feedback, please reach out to me at  simplebutsimpull@gmail.com.
