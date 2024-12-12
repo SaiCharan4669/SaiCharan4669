@@ -28,8 +28,5 @@ Model Interpretability: Highlight the features that drive pricing decisions, ens
    - Train and evaluate multiple models, including Linear Regression, Random Forest, and XGBoost, to determine the best-fit algorithm.
    - Use performance metrics to select the model that meets the project’s accuracy and interpretability requirements.
 
-### 5. Hyperparameter Tuning
-   - Fine-tune the selected model to enhance performance and accuracy through techniques such as grid search or random search.
-
 ### 6. Real-time Prediction System
    - Implement a prediction system to handle real-time input, allowing predictions for new laptops as they are released.
